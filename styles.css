@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+body{
+   
+    font-family: 'Montserrat', sans-serif;
+    background-color: #c4d5d7 ;
+    color: #ddf1ff;
+    background-image:url('img.jpg');
+    background-size: cover;
+    
+}
+
+.hero__link {
+    margin-right: 10px;
+  
+    font-size: 30px;
+    color: rgb(218, 236, 238);
+  }
+  
+  .hero__link:hover {
+    color: #4facfe;
+  }
+
+ 
+
+.social {
+    box-sizing: border-box;
+    text-align: right;
+}
+
+
+.container {
+   max-width: 900px;
+   margin: auto;
+   
+}
+
+.card {
+
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    
+    
+  
+
+}
+
+.bg-blue {
+    
+    background: rgba( 31, 132, 152, 0.8);
+    
+    
+}
+
+.bg-pink {
+    background-color: #cb9ebb;
+    background: rgba(203, 158, 187, 0.8);
+}
+
+.bg-dblue {
+    background-color: #45507d;
+    background: rgba( 69, 80, 125, 0.8);
+}
+
+
+
